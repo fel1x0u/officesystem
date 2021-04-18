@@ -1,0 +1,21 @@
+{
+	"version": 1.0,
+	"name": "Office Management Tool",
+	"creator": {
+		"name": "Felix Ou",
+		"age": 8,
+		"position": "Owner's son"
+	},
+	"features": {
+		"upsides": [
+			"Portable",
+			"Simple to use"
+		],
+		"downsides": [
+			"Python only",
+			"Needs Wifi",
+			"Needs a good web browser (like Firefox or (very stupid) google chrome, or (i don't even know who uses this anymore) Opera"
+		]
+	}
+}
+
